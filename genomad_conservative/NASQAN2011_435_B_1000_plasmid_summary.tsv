@@ -1,0 +1,2 @@
+seq_name	length	topology	n_genes	genetic_code	plasmid_score	fdr	n_hallmarks	marker_enrichment	conjugation_genes	amr_genes
+k121_187873	1012	No terminal repeats	3	11	0.9952	0.0048	2	2.9420	F_traL;F_traE	NA

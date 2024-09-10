@@ -1,0 +1,4 @@
+seq_name	length	topology	n_genes	genetic_code	plasmid_score	fdr	n_hallmarks	marker_enrichment	conjugation_genes	amr_genes
+k121_336180	1525	No terminal repeats	2	11	0.9985	0.0015	1	1.7183	NA	NA
+k121_665275	2303	DTR	3	11	0.9930	0.0043	1	1.6987	NA	NA
+k121_426631	6287	No terminal repeats	6	11	0.9865	0.0074	5	5.8509	T_virB6;T_virB9;T_virB6;virb4	NA

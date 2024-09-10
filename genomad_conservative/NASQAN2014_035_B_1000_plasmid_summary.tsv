@@ -1,0 +1,28 @@
+seq_name	length	topology	n_genes	genetic_code	plasmid_score	fdr	n_hallmarks	marker_enrichment	conjugation_genes	amr_genes
+k121_122748	4299	No terminal repeats	7	11	0.9987	0.0013	5	8.5078	F_traK;F_traE;F_traL	NA
+k121_282469	2467	No terminal repeats	6	11	0.9986	0.0014	3	6.1065	F_traL;F_traE	NA
+k121_445134	4669	DTR	6	11	0.9986	0.0014	1	2.1731	NA	NA
+k121_826808	3351	DTR	4	11	0.9985	0.0014	2	1.9887	NA	NA
+k121_20434	9015	No terminal repeats	9	11	0.9985	0.0014	2	6.9589	MOBQ	NA
+k121_500572	1007	No terminal repeats	2	4	0.9985	0.0015	1	1.7183	NA	NA
+k121_621869	2009	No terminal repeats	2	11	0.9983	0.0015	2	2.5091	F_traG;F_traH	NA
+k121_138438	1653	No terminal repeats	2	11	0.9983	0.0015	2	2.5091	F_traH;F_traG	NA
+k121_178481	1348	No terminal repeats	2	11	0.9982	0.0015	2	3.0347	MOBQ	NA
+k121_725391	1085	No terminal repeats	2	11	0.9982	0.0016	2	2.9527	F_traE;F_traK	NA
+k121_209062	4692	No terminal repeats	5	11	0.9982	0.0016	4	5.3882	F_traW;F_traU	NA
+k121_721685	4499	No terminal repeats	8	11	0.9980	0.0016	1	2.7900	NA	NA
+k121_473186	2057	No terminal repeats	5	11	0.9977	0.0017	1	1.7183	NA	NA
+k121_693447	5281	No terminal repeats	8	11	0.9977	0.0017	1	1.7183	NA	NA
+k121_703235	1217	No terminal repeats	2	11	0.9973	0.0018	2	2.4284	F_traH;F_traF	NA
+k121_631319	2759	No terminal repeats	3	11	0.9971	0.0019	2	2.4974	F_traF;F_traN	NA
+k121_80925	1676	No terminal repeats	1	11	0.9912	0.0023	1	1.7183	NA	NA
+k121_94323	2272	No terminal repeats	4	11	0.9809	0.0032	1	2.8833	NA	NA
+k121_807114	1445	No terminal repeats	2	11	0.9778	0.0042	2	2.5091	F_traG;F_traH	NA
+k121_4782	1222	No terminal repeats	4	11	0.9693	0.0055	1	1.7183	NA	NA
+k121_641428	1279	No terminal repeats	2	11	0.9619	0.0071	1	2.3994	NA	NA
+k121_71506	2230	No terminal repeats	3	11	0.9589	0.0086	2	2.5463	F_trbC;F_traU	NA
+k121_570598	1960	No terminal repeats	3	11	0.9357	0.0110	1	1.6903	NA	NA
+k121_588334	1195	No terminal repeats	2	11	0.9226	0.0138	1	1.7183	NA	NA
+k121_175783	2660	No terminal repeats	5	11	0.8544	0.0191	1	2.2753	NA	NA
+k121_7558	1442	No terminal repeats	3	11	0.8352	0.0247	2	2.4806	F_traU	NA
+k121_147067	2331	No terminal repeats	4	11	0.8076	0.0309	4	4.9483	F_traN;F_traF;F_traF;F_traH	NA

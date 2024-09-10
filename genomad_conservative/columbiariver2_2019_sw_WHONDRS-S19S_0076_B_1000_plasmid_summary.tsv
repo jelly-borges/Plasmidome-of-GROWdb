@@ -1,0 +1,26 @@
+seq_name	length	topology	n_genes	genetic_code	plasmid_score	fdr	n_hallmarks	marker_enrichment	conjugation_genes	amr_genes
+k121_2740456	1661	DTR	2	11	0.9989	0.0011	2	1.8586	NA	NA
+k121_913750	2414	No terminal repeats	3	11	0.9988	0.0011	1	1.7183	NA	NA
+k121_2005625	6111	No terminal repeats	6	11	0.9988	0.0012	3	3.2915	virb4;T_virB3	NA
+k121_2161676	2304	No terminal repeats	2	11	0.9987	0.0012	1	2.5051	NA	NA
+k121_843321	1398	No terminal repeats	3	11	0.9986	0.0012	2	2.8317	F_traV;virb4	NA
+k121_2649815	4029	No terminal repeats	8	11	0.9986	0.0013	1	2.2508	NA	NA
+k121_763714	1240	No terminal repeats	1	11	0.9982	0.0014	1	1.6987	NA	NA
+k121_1078994	1290	No terminal repeats	2	11	0.9955	0.0017	2	2.6841	F_traK	NA
+k121_309582	1095	No terminal repeats	4	11	0.9891	0.0028	2	2.8371	T_virB3	NA
+k121_91570	1002	No terminal repeats	2	11	0.9870	0.0038	1	2.2919	NA	NA
+k121_2341277	3612	No terminal repeats	7	11	0.9867	0.0047	2	2.3192	T_virB3	NA
+k121_1126294	1138	No terminal repeats	3	11	0.9821	0.0058	1	3.4505	T_virB10	NA
+k121_737043	8382	No terminal repeats	8	11	0.9633	0.0081	5	3.8408	virb4;T_virB6;T_virB8;T_virB9;T_virB11	NA
+k121_773427	3471	No terminal repeats	3	11	0.9542	0.0108	3	3.1781	virb4;T_virB6;T_virB9	NA
+k121_736130	29016	No terminal repeats	24	11	0.9442	0.0138	6	2.7034	T_virB3;virb4;T_virB6;T_virB9;T_virB11	NA
+k121_2353458	1381	No terminal repeats	5	11	0.9405	0.0167	1	2.2508	NA	NA
+k121_2694823	2780	No terminal repeats	6	11	0.9349	0.0195	1	2.1931	NA	NA
+k121_1755134	1027	No terminal repeats	2	11	0.9255	0.0226	2	2.0054	T_virB10;T_virB9	NA
+k121_648316	1408	No terminal repeats	4	11	0.9173	0.0257	1	2.2282	NA	NA
+k121_2108759	1484	No terminal repeats	4	11	0.9132	0.0288	1	1.6659	NA	NA
+k121_110140	2798	No terminal repeats	4	11	0.9058	0.0319	1	2.3688	NA	NA
+k121_1377531	1572	No terminal repeats	3	11	0.8993	0.0350	1	1.6385	NA	NA
+k121_2238643	1668	No terminal repeats	3	11	0.8657	0.0394	2	2.2092	T_virB9;T_virB6	NA
+k121_716783	1065	No terminal repeats	1	11	0.8613	0.0435	1	1.5023	NA	NA
+k121_1829521	1310	No terminal repeats	2	11	0.8606	0.0473	2	2.2057	T_virB9;T_virB6	NA

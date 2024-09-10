@@ -1,0 +1,6 @@
+,ID,Length,Coverage,# ORFs,RDS,Circular,Inc Type(s),# Replication,# Mobilization,# OriT,# Conjugation,# AMRs,# rRNAs,# Plasmid Hits
+1,k121_302298,11448,,13,0.0,no,0,0,1,0,0,0,0,0
+9,k121_140953,3711,,1,1.7,no,0,0,0,0,0,0,0,1
+11,k121_28916,3161,,4,2.2,no,0,0,0,0,0,0,0,0
+14,k121_58343,2544,,3,0.1,no,0,0,0,0,0,0,0,1
+16,k121_417516,2402,,2,0.0,yes,0,0,0,0,0,0,0,1

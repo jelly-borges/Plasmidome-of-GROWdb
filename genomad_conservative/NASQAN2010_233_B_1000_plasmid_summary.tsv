@@ -1,0 +1,30 @@
+seq_name	length	topology	n_genes	genetic_code	plasmid_score	fdr	n_hallmarks	marker_enrichment	conjugation_genes	amr_genes
+k121_125805	3773	No terminal repeats	4	11	0.9989	0.0011	2	3.4086	MOBQ	NA
+k121_708036	1319	No terminal repeats	3	11	0.9989	0.0011	1	3.0979	NA	NA
+k121_794524	2162	No terminal repeats	2	11	0.9988	0.0011	1	1.8392	NA	NA
+k121_50972	4908	DTR	6	11	0.9988	0.0011	1	2.6476	NA	NA
+k121_412926	2367	No terminal repeats	6	11	0.9988	0.0011	1	3.4300	NA	NA
+k121_746392	4476	No terminal repeats	7	11	0.9988	0.0012	2	2.3329	NA	NA
+k121_106767	1660	No terminal repeats	2	11	0.9988	0.0012	1	1.7183	NA	NA
+k121_852789	3013	DTR	3	11	0.9988	0.0012	2	1.8665	NA	NA
+k121_362835	3453	No terminal repeats	6	11	0.9988	0.0012	1	5.2750	MOBP1	NA
+k121_437645	6595	No terminal repeats	5	11	0.9988	0.0012	2	2.3079	MOBP1	NA
+k121_536808	2411	No terminal repeats	4	11	0.9986	0.0012	2	5.6157	T_virB5	NA
+k121_142525	1411	No terminal repeats	3	11	0.9986	0.0012	2	3.0751	F_traE;F_traL	NA
+k121_178539	5259	No terminal repeats	4	11	0.9986	0.0012	4	4.8885	F_traG;F_traH;F_traF;F_trbC	NA
+k121_779791	2400	No terminal repeats	5	11	0.9986	0.0012	1	3.2628	NA	NA
+k121_278292	3779	No terminal repeats	5	11	0.9985	0.0013	3	3.5354	virb4;T_virB3	NA
+k121_151749	1980	No terminal repeats	3	11	0.9985	0.0013	1	2.4168	MOBP1	NA
+k121_608043	1017	No terminal repeats	2	11	0.9983	0.0013	2	2.5463	F_traU;F_trbC	NA
+k121_209658	1093	No terminal repeats	2	11	0.9978	0.0014	2	3.0616	F_traL	NA
+k121_287145	5475	No terminal repeats	9	11	0.9961	0.0015	2	3.7084	MOBQ	NA
+k121_794239	1337	No terminal repeats	5	11	0.9953	0.0017	2	3.3378	F_traL	NA
+k121_618294	1039	No terminal repeats	1	11	0.9696	0.0030	1	1.5023	NA	NA
+k121_482838	1348	No terminal repeats	2	11	0.9579	0.0048	2	2.4740	F_traV;virb4	NA
+k121_357435	1320	No terminal repeats	2	11	0.9499	0.0068	2	2.4653	F_traU;F_traW	NA
+k121_750348	1195	No terminal repeats	2	4	0.9436	0.0088	1	1.7183	NA	NA
+k121_711148	2187	No terminal repeats	3	11	0.9413	0.0108	2	2.6952	T_virB9	NA
+k121_640997	6052	No terminal repeats	7	11	0.8881	0.0147	4	5.5235	F_trbC;F_traU;F_traW	NA
+k121_145464	2462	No terminal repeats	4	11	0.8596	0.0194	3	4.1873	T_virB10;T_virB5	NA
+k121_18005	1034	No terminal repeats	2	11	0.8577	0.0238	2	2.1365	T_virB9;T_virB8	NA
+k121_508244	2252	No terminal repeats	3	11	0.8106	0.0295	2	2.2057	T_virB6;T_virB9	NA

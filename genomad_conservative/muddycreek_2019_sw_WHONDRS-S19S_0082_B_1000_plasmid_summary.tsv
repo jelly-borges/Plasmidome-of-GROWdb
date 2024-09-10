@@ -1,0 +1,26 @@
+seq_name	length	topology	n_genes	genetic_code	plasmid_score	fdr	n_hallmarks	marker_enrichment	conjugation_genes	amr_genes
+k121_1217118	8403	No terminal repeats	8	11	0.9986	0.0014	1	1.5328	NA	NA
+k121_316420	1076	No terminal repeats	1	11	0.9984	0.0015	1	1.7183	NA	NA
+k121_1132020	1458	No terminal repeats	3	11	0.9983	0.0015	2	2.8640	MOBP1	NA
+k121_472252	3208	No terminal repeats	3	11	0.9976	0.0017	3	3.6934	F_traG;F_traH;F_traF	NA
+k121_1711852	2588	No terminal repeats	3	11	0.9974	0.0019	1	3.2175	NA	NA
+k121_460809	1075	No terminal repeats	2	11	0.9948	0.0025	2	2.7017	MOBH	NA
+k121_1775727	2238	No terminal repeats	3	11	0.9929	0.0031	2	4.0882	F_traF;F_trbC	NA
+k121_711307	2192	No terminal repeats	4	11	0.9921	0.0037	2	3.2363	MOBP1	NA
+k121_2338999	1322	No terminal repeats	2	11	0.9919	0.0042	1	1.6805	NA	NA
+k121_2197794	1516	No terminal repeats	2	11	0.9916	0.0046	1	1.6987	NA	NA
+k121_104784	3344	No terminal repeats	4	11	0.9915	0.0050	1	2.3619	NA	NA
+k121_1312376	1104	No terminal repeats	2	11	0.9869	0.0057	2	2.7104	F_traB;F_traK	NA
+k121_456842	1184	No terminal repeats	2	11	0.9797	0.0068	2	2.1365	T_virB9;T_virB8	NA
+k121_2096903	1611	No terminal repeats	2	11	0.9665	0.0087	1	2.3619	NA	NA
+k121_2256792	1093	No terminal repeats	4	11	0.9554	0.0111	3	3.9624	F_traL;F_traE	NA
+k121_746462	1401	No terminal repeats	2	11	0.9543	0.0133	1	1.5023	NA	NA
+k121_930887	1154	No terminal repeats	1	11	0.9433	0.0158	1	1.5486	NA	NA
+k121_2381612	1573	No terminal repeats	2	11	0.9334	0.0186	2	2.4245	F_traV;virb4	NA
+k121_1847607	1580	No terminal repeats	2	11	0.9284	0.0214	1	1.5023	NA	NA
+k121_1868179	3383	No terminal repeats	6	11	0.9167	0.0245	3	4.0374	F_traW;F_traU	NA
+k121_1855717	1485	No terminal repeats	2	11	0.8936	0.0284	2	2.4250	F_traH;F_traF	NA
+k121_1459955	1629	No terminal repeats	3	11	0.8857	0.0323	2	2.3303	F_traW;F_traU	NA
+k121_846006	1299	No terminal repeats	4	11	0.8817	0.0361	3	3.9491	virb4;F_traV	NA
+k121_150611	1554	No terminal repeats	3	11	0.8766	0.0397	2	2.6158	t4cp1	NA
+k121_1694442	2066	No terminal repeats	3	11	0.8106	0.0457	1	2.0091	NA	NA

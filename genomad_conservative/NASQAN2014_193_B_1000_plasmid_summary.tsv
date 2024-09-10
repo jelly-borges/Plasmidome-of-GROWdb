@@ -1,0 +1,36 @@
+seq_name	length	topology	n_genes	genetic_code	plasmid_score	fdr	n_hallmarks	marker_enrichment	conjugation_genes	amr_genes
+k121_400936	1513	No terminal repeats	2	11	0.9988	0.0012	2	2.8392	MOBQ	NA
+k121_958327	7960	No terminal repeats	13	11	0.9987	0.0012	1	3.9385	NA	NA
+k121_543832	4085	No terminal repeats	6	11	0.9987	0.0012	1	4.1627	NA	NA
+k121_215107	2045	No terminal repeats	2	11	0.9987	0.0013	1	1.7183	NA	NA
+k121_271021	5095	No terminal repeats	3	11	0.9987	0.0013	1	3.3232	MOBQ	NA
+k121_553685	2857	No terminal repeats	3	11	0.9987	0.0013	1	2.8723	NA	NA
+k121_561927	2866	No terminal repeats	6	11	0.9986	0.0013	1	2.7821	NA	NA
+k121_1210727	4265	DTR	5	11	0.9986	0.0013	1	2.2469	MOBV	NA
+k121_615239	2728	No terminal repeats	6	11	0.9986	0.0013	1	2.7821	NA	NA
+k121_431568	1205	No terminal repeats	1	11	0.9985	0.0013	1	1.6827	NA	NA
+k121_281658	4342	No terminal repeats	5	11	0.9982	0.0014	2	2.9389	NA	NA
+k121_1042641	4100	No terminal repeats	4	11	0.9982	0.0014	4	4.1928	G_tfc7;t4cp1;G_tfc5;T_virB1	NA
+k121_138656	1459	No terminal repeats	3	11	0.9981	0.0014	3	3.4229	G_tfc10;G_tfc11;G_tfc12	NA
+k121_569821	1084	No terminal repeats	4	11	0.9980	0.0015	2	2.9639	NA	NA
+k121_977199	1432	No terminal repeats	4	11	0.9972	0.0016	1	2.6681	NA	NA
+k121_777733	1327	No terminal repeats	2	11	0.9971	0.0017	1	1.7183	NA	NA
+k121_1138897	2829	No terminal repeats	3	11	0.9965	0.0018	1	2.2321	NA	NA
+k121_5204	1043	No terminal repeats	2	11	0.9962	0.0019	1	2.2747	G_tfc23;G_tfc22	NA
+k121_179726	1206	No terminal repeats	2	11	0.9955	0.0020	2	3.0204	F_traK;F_traE	NA
+k121_801189	2118	No terminal repeats	2	11	0.9952	0.0022	1	1.6297	NA	NA
+k121_991189	2876	No terminal repeats	3	11	0.9926	0.0024	2	2.1819	G_tfc15;virb4	NA
+k121_675686	1762	No terminal repeats	3	11	0.9881	0.0028	1	1.7166	NA	NA
+k121_874168	1401	No terminal repeats	3	11	0.9870	0.0033	1	1.5489	NA	NA
+k121_911203	4327	No terminal repeats	5	11	0.9865	0.0037	1	1.6297	NA	NA
+k121_962421	3116	No terminal repeats	5	11	0.9785	0.0044	1	2.1806	NA	NA
+k121_455610	1903	No terminal repeats	4	11	0.9722	0.0053	2	2.4073	G_tfc23;G_tfc24	NA
+k121_933085	1227	No terminal repeats	5	11	0.9547	0.0068	1	1.7894	NA	NA
+k121_115721	1039	No terminal repeats	2	11	0.9469	0.0084	2	2.4062	virb4;T_virB5	NA
+k121_954850	1205	No terminal repeats	3	11	0.9451	0.0100	2	2.8405	T_virB3	NA
+k121_106203	1399	No terminal repeats	2	11	0.9370	0.0118	2	1.9813	T_virB9;T_virB8	NA
+k121_737780	1613	No terminal repeats	4	11	0.9297	0.0137	2	2.1382	T_virB8;T_virB9	NA
+k121_167369	1468	No terminal repeats	2	11	0.9248	0.0156	1	2.1107	G_tfc13;G_tfc14	NA
+k121_970395	3881	No terminal repeats	5	11	0.9064	0.0180	1	1.5343	NA	NA
+k121_383229	1880	No terminal repeats	3	11	0.8199	0.0227	2	2.1744	virb4;T_virB3	NA
+k121_1183288	1568	No terminal repeats	3	11	0.8189	0.0273	1	1.7183	NA	NA
