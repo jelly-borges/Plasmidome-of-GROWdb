@@ -1,0 +1,4 @@
+gene	start	end	length	strand	gc_content	genetic_code	rbs_motif	marker	evalue	bitscore	uscg	plasmid_hallmark	virus_hallmark	taxid	taxname	annotation_conjscan	annotation_amr	annotation_accessions	annotation_description
+k121_21665_1	3	758	756	1	0.333	11	None	NA	NA	NA	0	0	0	1	NA	NA	NA	NA	NA
+k121_21665_2	815	1393	579	1	0.358	11	None	NA	NA	NA	0	0	0	1	NA	NA	NA	NA	NA
+k121_21665_3	1835	2353	519	1	0.337	11	None	NA	NA	NA	0	0	0	1	NA	NA	NA	NA	NA

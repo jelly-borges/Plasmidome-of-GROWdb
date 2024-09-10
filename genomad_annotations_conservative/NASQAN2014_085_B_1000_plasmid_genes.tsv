@@ -1,0 +1,11 @@
+gene	start	end	length	strand	gc_content	genetic_code	rbs_motif	marker	evalue	bitscore	uscg	plasmid_hallmark	virus_hallmark	taxid	taxname	annotation_conjscan	annotation_amr	annotation_accessions	annotation_description
+k121_100461_1	1	183	183	1	0.410	11	None	NA	NA	NA	0	0	0	1	NA	NA	NA	NA	NA
+k121_100461_2	189	1013	825	1	0.422	11	GGA/GAG/AGG	GENOMAD.084811.PC	2.202e-13	73	0	1	0	1	NA	F_traF	NA	PF13728;K12057;TIGR02739;COG0386	type-F conjugative transfer system pilin assembly protein TraF
+k121_100461_3	1013	1549	537	1	0.449	11	GGA/GAG/AGG	GENOMAD.092909.PC	5.54e-26	107	0	1	0	1	NA	F_traH	NA	K12072	NA
+k121_129399_1	3	671	669	-1	0.318	11	GGA/GAG/AGG	NA	NA	NA	0	0	0	1	NA	NA	NA	NA	NA
+k121_129399_2	994	1572	579	-1	0.292	11	None	GENOMAD.015439.PP	4.13e-06	49	0	1	0	1	NA	NA	NA	PF01051;COG5527	Protein involved in initiation of plasmid replication
+k121_196950_1	102	998	897	-1	0.523	11	AAAA	GENOMAD.031536.PP	4.589e-76	258	0	1	0	1	NA	NA	NA	PF06504;COG5534	Replication protein C (RepC)
+k121_196950_2	988	1842	855	-1	0.510	11	None	NA	NA	NA	0	0	0	1	NA	NA	NA	NA	NA
+k121_430400_1	272	538	267	1	0.528	11	None	GENOMAD.193186.PC	1.106e-06	47	0	0	0	1	NA	NA	NA	PF03693;COG3905;TIGR04563	Predicted transcriptional regulator
+k121_430400_2	493	819	327	1	0.502	11	None	GENOMAD.147643.PC	3.982e-17	78	0	1	0	1	NA	NA	NA	PF05016;COG3668;TIGR02385	Plasmid stabilization system protein ParE
+k121_430400_3	816	1091	276	-1	0.583	11	None	NA	NA	NA	0	0	0	1	NA	NA	NA	NA	NA

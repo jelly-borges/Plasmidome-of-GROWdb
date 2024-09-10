@@ -1,0 +1,8 @@
+gene	start	end	length	strand	gc_content	genetic_code	rbs_motif	marker	evalue	bitscore	uscg	plasmid_hallmark	virus_hallmark	taxid	taxname	annotation_conjscan	annotation_amr	annotation_accessions	annotation_description
+k121_237822_1	2	157	156	1	0.404	11	None	NA	NA	NA	0	0	0	1	NA	NA	NA	NA	NA
+k121_237822_2	144	896	753	1	0.386	11	TAA	GENOMAD.136125.PP	7.407e-35	136	0	0	0	1	NA	MOBB	NA	PF18976	Relaxase/Mobilisation nuclease domain
+k121_237822_3	908	2614	1707	1	0.383	11	TAA	GENOMAD.136080.PC	5.197e-10	65	0	1	0	1	NA	t4cp1	NA	PF02534;COG3505;TIGR02767;K03205	Type IV secretory pathway, VirD4 component, TraG/TraD family ATPase
+k121_237822_4	2614	3579	966	1	0.330	11	None	NA	NA	NA	0	0	0	1	NA	NA	NA	NA	NA
+k121_237822_5	3551	3931	381	-1	0.381	11	None	NA	NA	NA	0	0	0	1	NA	NA	NA	NA	NA
+k121_175541_1	3	740	738	-1	0.596	11	None	GENOMAD.065561.PP	2.564e-10	63	0	1	0	1	NA	MOBQ	NA	PF03389;TIGR02768;COG0507	MobA/MobL family
+k121_175541_2	909	1094	186	1	0.543	11	AGGAG	GENOMAD.048732.PP	1.174e-09	54	0	1	0	1	NA	NA	NA	PF12958	NA

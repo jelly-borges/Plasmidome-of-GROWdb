@@ -1,0 +1,18 @@
+gene	start	end	length	strand	gc_content	genetic_code	rbs_motif	marker	evalue	bitscore	uscg	plasmid_hallmark	virus_hallmark	taxid	taxname	annotation_conjscan	annotation_amr	annotation_accessions	annotation_description
+k121_755441_1	132	1058	927	1	0.540	11	None	GENOMAD.002761.PP	8.699e-15	78	0	1	0	1	NA	MOBQ	NA	PF03389;TIGR02768;K18434	MobA/MobL family
+k121_196452_1	2	373	372	1	0.718	11	None	GENOMAD.109592.PC	7.814e-07	49	0	1	0	1	NA	T_virB9	NA	PF03524;K03204;TIGR02781;COG3504	P-type conjugative transfer protein VirB9
+k121_196452_2	375	1352	978	1	0.731	11	GGAG/GAGG	GENOMAD.107266.PC	1.427e-35	141	0	1	0	1	NA	T_virB10	NA	PF03743	Bacterial conjugation TrbI-like protein
+k121_63788_1	1	1305	1305	-1	0.408	4	TTAA	GENOMAD.159857.CP	7.637e-11	67	0	0	0	1	NA	NA	NA	PF03825;K03305;TIGR00926;COG3104	Peptide:H+ symporter (also transports b-lactam antibiotics, the antitumor agent, bestatin, and various protease inhibitors)
+k121_63788_2	1336	2151	816	1	0.401	4	TTA	GENOMAD.046829.PP	0.000419	44	0	0	0	1	NA	NA	NA	PF10609;TIGR03371;COG2894;K12055	cellulose synthase operon protein YhjQ
+k121_63788_3	2126	3049	924	1	0.449	4	None	GENOMAD.138275.PV	8.169e-07	53	0	1	0	1	NA	NA	NA	PF07506;PF02195;TIGR03454;COG1475;K03497	plasmid partitioning protein RepB
+k121_280241_1	1	678	678	-1	0.406	11	AATAA	NA	NA	NA	0	0	0	1	NA	NA	NA	NA	NA
+k121_280241_2	806	2488	1683	1	0.421	11	None	NA	NA	NA	0	0	0	1	NA	NA	NA	NA	NA
+k121_280241_3	2489	3190	702	-1	0.436	11	TAA	NA	NA	NA	0	0	0	1	NA	NA	NA	NA	NA
+k121_280241_4	3194	4780	1587	-1	0.407	11	None	GENOMAD.159857.CP	7.74e-09	61	0	0	0	1	NA	NA	NA	PF03825;K03305;TIGR00926;COG3104	Peptide:H+ symporter (also transports b-lactam antibiotics, the antitumor agent, bestatin, and various protease inhibitors)
+k121_280241_5	4878	5657	780	1	0.379	11	TAA	GENOMAD.046829.PP	0.0007877	43	0	0	0	1	NA	NA	NA	PF10609;TIGR03371;COG2894;K12055	cellulose synthase operon protein YhjQ
+k121_280241_6	5668	6588	921	1	0.406	11	None	GENOMAD.138275.PV	1.456e-05	49	0	1	0	1	NA	NA	NA	PF07506;PF02195;TIGR03454;COG1475;K03497	plasmid partitioning protein RepB
+k121_1047045_1	3	866	864	-1	0.425	11	TAA	GENOMAD.138275.PV	5.391e-05	47	0	1	0	1	NA	NA	NA	PF07506;PF02195;TIGR03454;COG1475;K03497	plasmid partitioning protein RepB
+k121_1047045_2	877	1656	780	-1	0.376	11	TAAA	GENOMAD.046829.PP	0.0007877	43	0	0	0	1	NA	NA	NA	PF10609;TIGR03371;COG2894;K12055	cellulose synthase operon protein YhjQ
+k121_1047045_3	1764	2270	507	1	0.394	11	None	GENOMAD.159857.CP	2.324e-10	61	0	0	0	1	NA	NA	NA	PF03825;K03305;TIGR00926;COG3104	Peptide:H+ symporter (also transports b-lactam antibiotics, the antitumor agent, bestatin, and various protease inhibitors)
+k121_481683_1	21	800	780	1	0.397	11	TAA	GENOMAD.046829.PP	0.0003812	44	0	0	0	1	NA	NA	NA	PF10609;TIGR03371;COG2894;K12055	cellulose synthase operon protein YhjQ
+k121_481683_2	812	1315	504	1	0.431	11	TAA	GENOMAD.138275.PV	0.0001171	44	0	1	0	1	NA	NA	NA	PF07506;PF02195;TIGR03454;COG1475;K03497	plasmid partitioning protein RepB

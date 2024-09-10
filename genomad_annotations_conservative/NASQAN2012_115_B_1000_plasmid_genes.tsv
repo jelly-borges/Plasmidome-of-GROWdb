@@ -1,0 +1,5 @@
+gene	start	end	length	strand	gc_content	genetic_code	rbs_motif	marker	evalue	bitscore	uscg	plasmid_hallmark	virus_hallmark	taxid	taxname	annotation_conjscan	annotation_amr	annotation_accessions	annotation_description
+k121_425173_1	2	985	984	1	0.297	11	None	GENOMAD.015439.PP	1.082e-07	56	0	1	0	1	NA	NA	NA	PF01051;COG5527	Protein involved in initiation of plasmid replication
+k121_425173_2	1059	1166	108	-1	0.278	11	None	NA	NA	NA	0	0	0	1	NA	NA	NA	NA	NA
+k121_371639_1	3	923	921	1	0.307	11	None	GENOMAD.015439.PP	3.931e-07	54	0	1	0	1	NA	NA	NA	PF01051;COG5527	Protein involved in initiation of plasmid replication
+k121_371639_2	997	1104	108	-1	0.278	11	None	NA	NA	NA	0	0	0	1	NA	NA	NA	NA	NA

@@ -1,0 +1,11 @@
+gene	start	end	length	strand	gc_content	genetic_code	rbs_motif	marker	evalue	bitscore	uscg	plasmid_hallmark	virus_hallmark	taxid	taxname	annotation_conjscan	annotation_amr	annotation_accessions	annotation_description
+k121_581452_1	51	674	624	1	0.503	11	GGAG/GAGG	NA	NA	NA	0	0	0	1	NA	NA	NA	NA	NA
+k121_581452_2	703	1149	447	1	0.544	11	AGGA	GENOMAD.095274.PC	3.521e-18	83	0	1	0	1	NA	NA	NA	PF10671;PF07283;K20267;COG3417	Toxin co-regulated pilus biosynthesis protein Q; Conjugal transfer protein TrbH
+k121_581452_3	1146	2447	1302	1	0.549	11	None	GENOMAD.137956.PC	7.088e-21	99	0	0	0	1	NA	NA	NA	PF00263;PF07655;TIGR02520;K12282;COG1450	type IVB pilus formation outer membrane protein, R64 PilN family
+k121_84913_1	3	1019	1017	-1	0.605	11	None	GENOMAD.093637.PP	2.146e-24	108	0	1	0	1	NA	NA	NA	PF14516;COG2255;TIGR02928;K02450	Holliday junction resolvasome RuvABC, ATP-dependent DNA helicase subunit
+k121_606270_1	1	657	657	1	0.639	11	None	GENOMAD.064469.PP	8.539e-85	279	0	1	0	1	NA	MOBQ	NA	PF03389;TIGR02768	MobA/MobL family
+k121_606270_2	736	1242	507	-1	0.554	11	None	NA	NA	NA	0	0	0	1	NA	NA	NA	NA	NA
+k121_646533_1	3	119	117	1	0.487	11	None	NA	NA	NA	0	0	0	1	NA	NA	NA	NA	NA
+k121_646533_2	158	430	273	1	0.553	11	GGAG/GAGG	NA	NA	NA	0	0	0	1	NA	NA	NA	NA	NA
+k121_646533_3	427	756	330	-1	0.503	11	None	GENOMAD.196233.PC	9.003e-49	169	0	1	0	1	NA	NA	NA	PF05016;K19093;COG3668	Plasmid stabilization system protein ParE
+k121_646533_4	753	1004	252	-1	0.528	11	None	GENOMAD.160466.PC	1.648e-15	72	0	0	0	1	NA	NA	NA	PF03693;TIGR02606;COG3609;K07722	putative addiction module antidote protein, CC2985 family

@@ -1,0 +1,5 @@
+gene	start	end	length	strand	gc_content	genetic_code	rbs_motif	marker	evalue	bitscore	uscg	plasmid_hallmark	virus_hallmark	taxid	taxname	annotation_conjscan	annotation_amr	annotation_accessions	annotation_description
+k121_2742_1	2	463	462	-1	0.338	11	AAA	GENOMAD.151406.PV	1.131e-75	249	0	1	0	1	NA	NA	NA	PF05732;COG5529;TIGR03337	Firmicute plasmid replication protein (RepL)
+k121_15677_1	317	1624	1308	1	0.334	11	AAAA	NA	NA	NA	0	0	0	1	NA	NA	NA	NA	NA
+k121_15677_2	1539	2216	678	-1	0.313	11	TAA	NA	NA	NA	0	0	0	1	NA	NA	NA	NA	NA
+k121_15677_3	2295	2546	252	-1	0.310	11	AATAA	GENOMAD.195537.PV	3.601e-08	51	0	0	0	1	NA	NA	NA	PF20038	NA

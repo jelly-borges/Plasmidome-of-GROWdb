@@ -1,0 +1,5 @@
+gene	start	end	length	strand	gc_content	genetic_code	rbs_motif	marker	evalue	bitscore	uscg	plasmid_hallmark	virus_hallmark	taxid	taxname	annotation_conjscan	annotation_amr	annotation_accessions	annotation_description
+k121_284974_1	1	207	207	1	0.594	11	None	NA	NA	NA	0	0	0	1	NA	NA	NA	NA	NA
+k121_284974_2	298	1782	1485	1	0.527	11	None	GENOMAD.035917.PP	0.0005557	45	0	1	0	1	NA	NA	NA	PF13814	Replication-relaxation
+k121_284974_3	1775	3283	1509	1	0.567	11	None	NA	NA	NA	0	0	0	1	NA	NA	NA	NA	NA
+k121_284974_4	3286	3906	621	1	0.403	11	None	NA	NA	NA	0	0	0	1	NA	NA	NA	NA	NA

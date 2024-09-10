@@ -1,0 +1,19 @@
+gene	start	end	length	strand	gc_content	genetic_code	rbs_motif	marker	evalue	bitscore	uscg	plasmid_hallmark	virus_hallmark	taxid	taxname	annotation_conjscan	annotation_amr	annotation_accessions	annotation_description
+k121_46577_1	2	328	327	1	0.391	11	None	NA	NA	NA	0	0	0	1	NA	NA	NA	NA	NA
+k121_46577_2	374	1156	783	1	0.430	11	None	GENOMAD.121777.PV	1.771e-38	147	0	1	0	8016	Inoviridae	NA	NA	PF01446;COG5655	Replication protein
+k121_86133_1	1336	2187	852	1	0.297	11	GGA/GAG/AGG	GENOMAD.167610.PV	6.71e-07	53	0	0	0	2561	Caudoviricetes	NA	NA	PF01051;COG5527	Protein involved in initiation of plasmid replication
+k121_86133_2	2409	2783	375	-1	0.301	11	None	NA	NA	NA	0	0	0	1	NA	NA	NA	NA	NA
+k121_86133_3	3121	3927	807	1	0.275	11	AGGA	NA	NA	NA	0	0	0	1	NA	NA	NA	NA	NA
+k121_86133_4	4107	4571	465	1	0.275	11	GGA/GAG/AGG	NA	NA	NA	0	0	0	1	NA	NA	NA	NA	NA
+k121_86133_5	4692	4967	276	-1	0.312	11	AGGA	NA	NA	NA	0	0	0	1	NA	NA	NA	NA	NA
+k121_86133_6	4968	5192	225	-1	0.280	11	AGGAG	NA	NA	NA	0	0	0	1	NA	NA	NA	NA	NA
+k121_86133_7	5258	5623	366	-1	0.295	11	GGA/GAG/AGG	GENOMAD.106660.PV	6.264e-09	55	0	0	0	1	NA	NA	NA	PF04645	NA
+k121_69479_1	3	179	177	1	0.345	11	None	NA	NA	NA	0	0	0	1	NA	NA	NA	NA	NA
+k121_69479_2	299	667	369	-1	0.355	11	AATAA	GENOMAD.178332.PV	1.215e-10	60	0	0	0	1	NA	NA	NA	PF13118;COG2452;TIGR02051	Predicted site-specific integrase-resolvase
+k121_69479_3	1149	2015	867	-1	0.366	11	None	NA	NA	NA	0	0	0	1	NA	NA	NA	NA	NA
+k121_12553_1	2	484	483	1	0.609	11	None	GENOMAD.171558.PC	6.335e-52	181	0	0	0	1	NA	NA	NA	PF02321;K15725;TIGR01845;COG1538	efflux transporter, outer membrane factor (OMF) lipoprotein, NodT family
+k121_12553_2	500	1912	1413	1	0.575	11	None	GENOMAD.197261.PC	3.076e-05	49	0	0	0	1	NA	NA	NA	K22349;COG2132	Multicopper oxidase with three cupredoxin domains (includes cell division protein FtsP and spore coat protein CotA)
+k121_12553_3	1935	2429	495	1	0.497	11	GGAG/GAGG	GENOMAD.170370.PC	5.103e-06	48	0	0	0	1	NA	NA	NA	PF00116;COG4454;TIGR04339;K02638	Uncharacterized copper-binding protein, cupredoxin-like subfamily
+k121_12553_4	2519	2938	420	1	0.457	11	GGA/GAG/AGG	NA	NA	NA	0	0	0	1	NA	NA	NA	NA	NA
+k121_12553_5	2946	3290	345	1	0.412	11	GGAG/GAGG	GENOMAD.116259.PC	7.657e-21	89	0	0	0	1	NA	NA	NA	COG5569	Periplasmic Cu and Ag efflux protein CusF
+k121_12553_6	3403	3615	213	1	0.474	11	None	NA	NA	NA	0	0	0	1	NA	NA	NA	NA	NA

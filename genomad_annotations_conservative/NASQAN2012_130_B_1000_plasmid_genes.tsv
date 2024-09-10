@@ -1,0 +1,9 @@
+gene	start	end	length	strand	gc_content	genetic_code	rbs_motif	marker	evalue	bitscore	uscg	plasmid_hallmark	virus_hallmark	taxid	taxname	annotation_conjscan	annotation_amr	annotation_accessions	annotation_description
+k121_678202_1	1	735	735	-1	0.620	11	None	GENOMAD.126782.PC	2.093e-26	111	0	1	0	1	NA	NA	NA	PF14319;COG5655	Transposase zinc-binding domain
+k121_678202_2	885	1304	420	1	0.605	11	None	GENOMAD.180925.PC	2.748e-17	80	0	0	0	1	NA	NA	NA	PF13470;K07063;COG1569;TIGR00305	Predicted nucleic acid-binding protein, contains PIN domain
+k121_130897_1	1	309	309	-1	0.621	11	AGGAG	NA	NA	NA	0	0	0	1	NA	NA	NA	NA	NA
+k121_130897_2	322	603	282	-1	0.557	11	None	GENOMAD.118410.PC	2.577e-15	72	0	1	0	1	NA	T_virB3	NA	PF05101;K03198;COG3702	Type IV secretory pathway, VirB3 components
+k121_130897_3	610	918	309	-1	0.592	11	GGAGG	GENOMAD.053511.PP	2.632e-42	150	0	1	0	1	NA	NA	NA	PF04956;K03197;COG3838	Type IV secretory pathway, VirB2 components (pilins)
+k121_130897_4	915	1121	207	-1	0.565	11	None	NA	NA	NA	0	0	0	1	NA	NA	NA	NA	NA
+k121_944043_1	100	867	768	1	0.374	11	AAAA	NA	NA	NA	0	0	0	1	NA	NA	NA	NA	NA
+k121_944043_2	872	1771	900	1	0.379	11	None	GENOMAD.086833.PP	2.853e-05	48	0	1	0	1	NA	NA	NA	PF02195;TIGR04285;COG1475;K03497	nucleoid occlusion protein

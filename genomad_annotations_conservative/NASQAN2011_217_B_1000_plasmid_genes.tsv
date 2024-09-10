@@ -1,0 +1,3 @@
+gene	start	end	length	strand	gc_content	genetic_code	rbs_motif	marker	evalue	bitscore	uscg	plasmid_hallmark	virus_hallmark	taxid	taxname	annotation_conjscan	annotation_amr	annotation_accessions	annotation_description
+k121_7687_1	2	397	396	1	0.510	11	None	GENOMAD.121777.PV	3.671e-10	59	0	1	0	8016	Inoviridae	NA	NA	PF01446;COG5655	Replication protein
+k121_7687_2	514	1167	654	-1	0.544	11	None	GENOMAD.121777.PV	5.168e-23	100	0	1	0	8016	Inoviridae	NA	NA	PF01446;COG5655	Replication protein

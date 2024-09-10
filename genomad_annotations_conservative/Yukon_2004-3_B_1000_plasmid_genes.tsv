@@ -1,0 +1,7 @@
+gene	start	end	length	strand	gc_content	genetic_code	rbs_motif	marker	evalue	bitscore	uscg	plasmid_hallmark	virus_hallmark	taxid	taxname	annotation_conjscan	annotation_amr	annotation_accessions	annotation_description
+k121_871644_1	1	102	102	1	0.314	11	None	NA	NA	NA	0	0	0	1	NA	NA	NA	NA	NA
+k121_871644_2	114	1031	918	1	0.376	11	TAA	GENOMAD.086833.PP	0.0002568	45	0	1	0	1	NA	NA	NA	PF02195;TIGR04285;COG1475;K03497	nucleoid occlusion protein
+k121_871644_3	1036	1263	228	1	0.373	11	AAAAA	NA	NA	NA	0	0	0	1	NA	NA	NA	NA	NA
+k121_777004_1	3	326	324	1	0.485	11	None	NA	NA	NA	0	0	0	1	NA	NA	NA	NA	NA
+k121_777004_2	328	1500	1173	-1	0.520	11	TAAA	GENOMAD.107250.PP	1.956e-55	202	0	1	0	1	NA	NA	NA	PF14516;TIGR02928;COG1474;K06921	orc1/cdc6 family replication initiation protein
+k121_462900_1	3	1088	1086	-1	0.459	11	None	GENOMAD.107250.PP	5.33e-48	179	0	1	0	1	NA	NA	NA	PF14516;TIGR02928;COG1474;K06921	orc1/cdc6 family replication initiation protein

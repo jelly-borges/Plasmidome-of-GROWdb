@@ -1,0 +1,4 @@
+gene	start	end	length	strand	gc_content	genetic_code	rbs_motif	marker	evalue	bitscore	uscg	plasmid_hallmark	virus_hallmark	taxid	taxname	annotation_conjscan	annotation_amr	annotation_accessions	annotation_description
+k121_3801_1	2	328	327	1	0.557	11	None	NA	NA	NA	0	0	0	1	NA	NA	NA	NA	NA
+k121_3801_2	630	1505	876	-1	0.485	11	None	GENOMAD.034566.PP	3.476e-07	54	0	1	0	1	NA	NA	NA	PF07042;COG5534	TrfA protein
+k121_3801_3	1533	1802	270	-1	0.474	11	GGA/GAG/AGG	NA	NA	NA	0	0	0	1	NA	NA	NA	NA	NA

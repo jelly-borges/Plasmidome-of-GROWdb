@@ -1,0 +1,7 @@
+gene	start	end	length	strand	gc_content	genetic_code	rbs_motif	marker	evalue	bitscore	uscg	plasmid_hallmark	virus_hallmark	taxid	taxname	annotation_conjscan	annotation_amr	annotation_accessions	annotation_description
+k121_128753_1	755	976	222	-1	0.297	11	TAA	NA	NA	NA	0	0	0	1	NA	NA	NA	NA	NA
+k121_128753_2	1157	1564	408	-1	0.294	11	AATAA	GENOMAD.191476.PC	2.463e-06	48	0	0	0	1	NA	NA	NA	PF14367;K18828;COG1487;TIGR00028	Predicted nucleic acid-binding protein, contains PIN domain
+k121_128753_3	1567	1815	249	-1	0.289	11	TAA	GENOMAD.212784.CP	0.0002431	40	0	0	0	1	NA	NA	NA	PF12910;K19165;COG2161;TIGR01552	Antitoxin component YafN of the YafNO toxin-antitoxin module, PHD/YefM family
+k121_128753_4	2361	3365	1005	-1	0.314	11	None	GENOMAD.015439.PP	3.544e-05	48	0	1	0	1	NA	NA	NA	PF01051;COG5527	Protein involved in initiation of plasmid replication
+k121_128753_5	3409	3585	177	-1	0.316	11	AAAAAA	NA	NA	NA	0	0	0	1	NA	NA	NA	NA	NA
+k121_128753_6	3945	4124	180	-1	0.300	11	AATAA	NA	NA	NA	0	0	0	1	NA	NA	NA	NA	NA

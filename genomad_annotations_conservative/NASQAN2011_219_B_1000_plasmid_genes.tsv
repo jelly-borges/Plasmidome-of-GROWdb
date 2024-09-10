@@ -1,0 +1,5 @@
+gene	start	end	length	strand	gc_content	genetic_code	rbs_motif	marker	evalue	bitscore	uscg	plasmid_hallmark	virus_hallmark	taxid	taxname	annotation_conjscan	annotation_amr	annotation_accessions	annotation_description
+k121_157420_1	2	172	171	1	0.404	11	None	NA	NA	NA	0	0	0	1	NA	NA	NA	NA	NA
+k121_157420_2	184	1026	843	1	0.486	11	AGGAG	GENOMAD.083643.PP	2.091e-57	203	0	1	0	1	NA	T_virB5	NA	PF13605;TIGR02780;COG5314;K20266	P-type conjugative transfer protein TrbJ
+k121_157420_3	1038	1310	273	1	0.403	11	GGAG/GAGG	GENOMAD.029569.PP	2.156e-08	52	0	0	0	1	NA	NA	NA	PF19499;TIGR04359;COG3895	entry exclusion lipoprotein TrbK
+k121_157420_4	1327	1581	255	1	0.443	11	GGA/GAG/AGG	NA	NA	NA	0	0	0	1	NA	NA	NA	NA	NA

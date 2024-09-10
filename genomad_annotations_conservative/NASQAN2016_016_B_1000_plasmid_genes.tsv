@@ -1,0 +1,4 @@
+gene	start	end	length	strand	gc_content	genetic_code	rbs_motif	marker	evalue	bitscore	uscg	plasmid_hallmark	virus_hallmark	taxid	taxname	annotation_conjscan	annotation_amr	annotation_accessions	annotation_description
+k121_413174_1	3	173	171	1	0.643	11	None	NA	NA	NA	0	0	0	1	NA	NA	NA	NA	NA
+k121_413174_2	257	541	285	1	0.554	11	GGA/GAG/AGG	GENOMAD.078260.PC	1.958e-18	81	0	1	0	1	NA	F_traL	NA	PF07178;K12068;TIGR02762	type IV conjugative transfer system protein TraL
+k121_413174_3	544	1143	600	1	0.560	11	None	GENOMAD.030647.PP	4.454e-05	46	0	1	0	1	NA	F_traE	NA	PF05309;K12067;TIGR02761	type IV conjugative transfer system protein TraE

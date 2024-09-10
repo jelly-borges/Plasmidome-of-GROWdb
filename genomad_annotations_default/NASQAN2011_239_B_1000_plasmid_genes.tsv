@@ -1,0 +1,7 @@
+gene	start	end	length	strand	gc_content	genetic_code	rbs_motif	marker	evalue	bitscore	uscg	plasmid_hallmark	virus_hallmark	taxid	taxname	annotation_conjscan	annotation_amr	annotation_accessions	annotation_description
+k121_9390_1	3	155	153	1	0.353	11	None	NA	NA	NA	0	0	0	1	NA	NA	NA	NA	NA
+k121_9390_2	871	1419	549	1	0.475	11	GGAG/GAGG	GENOMAD.121777.PV	1.535e-10	62	0	1	0	8016	Inoviridae	NA	NA	PF01446;COG5655	Replication protein
+k121_25254_1	3	467	465	1	0.346	11	None	GENOMAD.121777.PV	6.288e-13	68	0	1	0	8016	Inoviridae	NA	NA	PF01446;COG5655	Replication protein
+k121_25254_2	555	884	330	1	0.364	11	TACAA	NA	NA	NA	0	0	0	1	NA	NA	NA	NA	NA
+k121_25254_3	1550	2038	489	1	0.454	11	None	NA	NA	NA	0	0	0	1	NA	NA	NA	NA	NA
+k121_20760_1	3	716	714	-1	0.465	11	GGA/GAG/AGG	GENOMAD.121777.PV	5.101e-34	133	0	1	0	8016	Inoviridae	NA	NA	PF01446;COG5655	Replication protein

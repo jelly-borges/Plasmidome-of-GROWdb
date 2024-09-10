@@ -1,0 +1,13 @@
+gene	start	end	length	strand	gc_content	genetic_code	rbs_motif	marker	evalue	bitscore	uscg	plasmid_hallmark	virus_hallmark	taxid	taxname	annotation_conjscan	annotation_amr	annotation_accessions	annotation_description
+k121_186936_1	3	1010	1008	-1	0.469	11	GGA/GAG/AGG	GENOMAD.170248.PC	3.259e-17	86	0	0	0	1	NA	NA	NA	PF06527	TniQ
+k121_186936_2	1015	2028	1014	-1	0.530	11	None	GENOMAD.169926.PC	8.27e-39	151	0	1	0	1	NA	NA	NA	PF13191;TIGR02928;COG3267;K02450	orc1/cdc6 family replication initiation protein
+k121_186936_3	2028	2858	831	-1	0.521	11	None	NA	NA	NA	0	0	0	1	NA	NA	NA	NA	NA
+k121_564597_1	173	352	180	-1	0.300	11	GGAG/GAGG	NA	NA	NA	0	0	0	1	NA	NA	NA	NA	NA
+k121_564597_2	1477	1698	222	-1	0.297	11	AGxAG	NA	NA	NA	0	0	0	1	NA	NA	NA	NA	NA
+k121_564597_3	1879	2286	408	-1	0.289	11	None	GENOMAD.191476.PC	2.463e-06	48	0	0	0	1	NA	NA	NA	PF14367;K18828;COG1487;TIGR00028	Predicted nucleic acid-binding protein, contains PIN domain
+k121_564597_4	2289	2537	249	-1	0.297	11	GGA/GAG/AGG	GENOMAD.212784.CP	0.0005439	39	0	0	0	1	NA	NA	NA	PF12910;K19165;COG2161;TIGR01552	Antitoxin component YafN of the YafNO toxin-antitoxin module, PHD/YefM family
+k121_564597_5	3083	4087	1005	-1	0.313	11	None	GENOMAD.015439.PP	3.544e-05	48	0	1	0	1	NA	NA	NA	PF01051;COG5527	Protein involved in initiation of plasmid replication
+k121_315835_1	1	771	771	-1	0.428	11	GGA/GAG/AGG	GENOMAD.086833.PP	8.667e-05	46	0	1	0	1	NA	NA	NA	PF02195;TIGR04285;COG1475;K03497	nucleoid occlusion protein
+k121_315835_2	782	1561	780	-1	0.373	11	None	GENOMAD.046829.PP	0.0007877	43	0	0	0	1	NA	NA	NA	PF10609;TIGR03371;COG2894;K12055	cellulose synthase operon protein YhjQ
+k121_315835_3	1716	3245	1530	1	0.413	11	None	GENOMAD.159857.CP	6.059e-08	58	0	0	0	1	NA	NA	NA	PF03825;K03305;TIGR00926;COG3104	Peptide:H+ symporter (also transports b-lactam antibiotics, the antitumor agent, bestatin, and various protease inhibitors)
+k121_315835_4	3247	3702	456	1	0.443	11	None	NA	NA	NA	0	0	0	1	NA	NA	NA	NA	NA

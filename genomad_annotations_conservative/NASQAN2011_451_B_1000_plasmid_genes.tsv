@@ -1,0 +1,10 @@
+gene	start	end	length	strand	gc_content	genetic_code	rbs_motif	marker	evalue	bitscore	uscg	plasmid_hallmark	virus_hallmark	taxid	taxname	annotation_conjscan	annotation_amr	annotation_accessions	annotation_description
+k121_345196_1	3	377	375	-1	0.595	11	AGxAG	NA	NA	NA	0	0	0	1	NA	NA	NA	NA	NA
+k121_345196_2	772	1098	327	1	0.566	11	AGGA/GGAG/GAGG	GENOMAD.034769.PP	4.318e-08	52	0	1	0	1	NA	NA	NA	K12069;COG3838	NA
+k121_675724_1	2	814	813	1	0.646	11	None	GENOMAD.108687.PC	2.01e-26	112	0	1	0	1	NA	virb4	NA	PF19044;PF03135;PF05101;K03199;TIGR00929;COG3451	type IV secretion/conjugal transfer ATPase, VirB4 family
+k121_675724_2	814	1116	303	1	0.653	11	GGAG/GAGG	GENOMAD.133699.PC	2.363e-11	61	0	1	0	1	NA	T_virB6	NA	K03201;COG3704	Type IV secretory pathway, VirB6 components
+k121_513723_1	1	1005	1005	-1	0.578	11	None	NA	NA	NA	0	0	0	1	NA	NA	NA	NA	NA
+k121_513723_2	1009	1293	285	-1	0.530	11	GGxGG	GENOMAD.119050.PC	1.084e-16	76	0	1	0	1	NA	T_virB3	NA	PF05101;K03198;COG3702	Type IV secretory pathway, VirB3 components
+k121_513723_3	1297	1614	318	-1	0.538	11	GGAG/GAGG	GENOMAD.053511.PP	1.231e-43	154	0	1	0	1	NA	NA	NA	PF04956;K03197;COG3838	Type IV secretory pathway, VirB2 components (pilins)
+k121_85175_1	1	930	930	1	0.596	11	None	GENOMAD.084811.PC	4.495e-34	136	0	1	0	1	NA	F_traF	NA	PF13728;K12057;TIGR02739;COG0386	type-F conjugative transfer system pilin assembly protein TraF
+k121_85175_2	942	1916	975	1	0.569	11	AGGA	GENOMAD.092909.PC	4.197e-80	271	0	1	0	1	NA	F_traH	NA	K12072	NA

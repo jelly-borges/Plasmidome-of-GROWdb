@@ -1,0 +1,9 @@
+gene	start	end	length	strand	gc_content	genetic_code	rbs_motif	marker	evalue	bitscore	uscg	plasmid_hallmark	virus_hallmark	taxid	taxname	annotation_conjscan	annotation_amr	annotation_accessions	annotation_description
+k121_563264_1	1	102	102	1	0.569	11	None	NA	NA	NA	0	0	0	1	NA	NA	NA	NA	NA
+k121_563264_2	141	311	171	1	0.392	11	None	NA	NA	NA	0	0	0	1	NA	NA	NA	NA	NA
+k121_563264_3	483	1439	957	1	0.406	11	None	GENOMAD.121777.PV	8.7e-43	162	0	1	0	8016	Inoviridae	NA	NA	PF01446;COG5655	Replication protein
+k121_563264_4	1505	1825	321	1	0.380	11	TAA	GENOMAD.066634.PP	1.983e-07	50	0	0	0	1	NA	NA	NA	NA	NA
+k121_563264_5	1844	2647	804	1	0.384	11	TAA	NA	NA	NA	0	0	0	1	NA	NA	NA	NA	NA
+k121_563264_6	3051	3983	933	1	0.360	11	None	GENOMAD.207091.VV	2.393e-19	92	0	0	0	2561	Caudoviricetes	NA	NA	PF10549;PF10543;COG3646	Phage regulatory protein Rha
+k121_563264_7	4073	4429	357	1	0.370	11	AATAA	GENOMAD.141272.PC	1.336e-16	77	0	1	0	1	NA	NA	NA	PF19514	NA
+k121_563264_8	4449	4547	99	1	0.495	11	AATAA	NA	NA	NA	0	0	0	1	NA	NA	NA	NA	NA

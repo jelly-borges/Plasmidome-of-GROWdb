@@ -1,0 +1,12 @@
+gene	start	end	length	strand	gc_content	genetic_code	rbs_motif	marker	evalue	bitscore	uscg	plasmid_hallmark	virus_hallmark	taxid	taxname	annotation_conjscan	annotation_amr	annotation_accessions	annotation_description
+k121_336180_1	523	1347	825	1	0.587	11	AGxAGG/AGGxGG	GENOMAD.070148.PP	0.0004284	44	0	1	0	1	NA	NA	NA	PF01051;COG5527	Protein involved in initiation of plasmid replication
+k121_336180_2	1411	1524	114	-1	0.465	11	None	NA	NA	NA	0	0	0	1	NA	NA	NA	NA	NA
+k121_426631_1	2	640	639	-1	0.599	11	GGAGG	GENOMAD.106011.PC	2.814e-07	53	0	1	0	1	NA	T_virB6	NA	PF03743;TIGR02783	Bacterial conjugation TrbI-like protein
+k121_426631_2	637	1452	816	-1	0.555	11	AGGA	GENOMAD.109949.PC	5.614e-38	146	0	1	0	1	NA	T_virB9	NA	PF03524;K03204;TIGR02781;COG3504	P-type conjugative transfer protein VirB9
+k121_426631_3	1449	2681	1233	-1	0.577	11	None	GENOMAD.130028.PC	2.381e-35	143	0	1	0	1	NA	T_virB6	NA	K03201;COG3704	Type IV secretory pathway, VirB6 components
+k121_426631_4	2681	5110	2430	-1	0.571	11	None	GENOMAD.108687.PC	1.959e-80	290	0	1	0	1	NA	virb4	NA	PF19044;PF03135;PF05101;K03199;TIGR00929;COG3451	type IV secretion/conjugal transfer ATPase, VirB4 family
+k121_426631_5	5402	5719	318	-1	0.557	11	GGAG/GAGG	GENOMAD.053511.PP	1.231e-43	154	0	1	0	1	NA	NA	NA	PF04956;K03197;COG3838	Type IV secretory pathway, VirB2 components (pilins)
+k121_426631_6	5728	6285	558	-1	0.566	11	None	NA	NA	NA	0	0	0	1	NA	NA	NA	NA	NA
+k121_665275_1	220	639	420	-1	0.271	11	ATTTA	NA	NA	NA	0	0	0	1	NA	NA	NA	NA	NA
+k121_665275_2	660	1559	900	-1	0.306	11	TATAT	GENOMAD.060735.PP	8.69e-08	56	0	1	0	1	NA	NA	NA	PF01446	NA
+k121_665275_3	1775	2188	414	-1	0.309	11	TAAAT	NA	NA	NA	0	0	0	1	NA	NA	NA	NA	NA
